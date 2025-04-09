@@ -4,6 +4,10 @@
   background-color: black;
 }
 
+html{
+  height: 1000vh;
+}
+
 .header{
   border: 1px solid white;
   padding: 10px;
@@ -13,32 +17,27 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  
+
+  height: 80px;
+  width: 100%;
+
+  position: fixed;
 }
 
 
 
 .Main{
-
   display: flex;
-  flex-direction: row;
+  position: relative;
 
-  border: 1px solid white;
+  top: 200px;
+
+  border: 1px solid red;
   padding: 10px;
   margin: 10px;
   color: #FFF;
 
   height: 600px;
-
-}
-
-.Main__container{
-  border: 1px solid yellow;
-  padding: 10px;
-  margin: 10px;
-  color: #FFF;
-
-  position: ;
 
 }
 
@@ -50,6 +49,17 @@
 
   width: 20%;
   height: 500px;
-  position: fixed;
+
+  
 
 }
+
+.Main__container{
+  border: 1px solid yellow;
+  padding: 10px;
+  margin: 10px;
+  color: #FFF;
+
+}
+
+
