@@ -7,10 +7,49 @@
 .header{
   border: 1px solid white;
   padding: 10px;
+  margin: 10px;
   color: #FFF;
 
   display: flex;
   justify-content: space-between;
   align-items: center;
   
+}
+
+
+
+.Main{
+
+  display: flex;
+  flex-direction: row;
+
+  border: 1px solid white;
+  padding: 10px;
+  margin: 10px;
+  color: #FFF;
+
+  height: 600px;
+
+}
+
+.Main__container{
+  border: 1px solid yellow;
+  padding: 10px;
+  margin: 10px;
+  color: #FFF;
+
+  position: ;
+
+}
+
+.sidebar{
+  border: 1px solid white;
+  padding: 10px;
+  margin: 10px;
+  color: #FFF;
+
+  width: 20%;
+  height: 500px;
+  position: fixed;
+
 }
