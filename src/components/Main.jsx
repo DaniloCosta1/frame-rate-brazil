@@ -5,8 +5,7 @@ import Maincointainer from './Maincointainer'
 const Main = () => {
   return (
     <div className='Main'>
-        <Sidebar />
-        <Maincointainer />
+        <h2>main</h2>
     </div>
   )
 }
