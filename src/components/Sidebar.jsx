@@ -23,28 +23,21 @@ const Sidebar = () => {
         <button>
           <span>
             <FaMicrochip />
-            <span>Processadores</span>
-          </span>
-        </button>
-
-        <button>
-          <span>
-            <FaMicrochip />
-            <span>Processadores</span>
+            <span>CPU</span>
           </span>
         </button>
 
         <button>
           <span>
             <MdDeveloperBoard />
-            <span>MotherBoard</span>
+            <span>MoBo</span>
           </span>
         </button>
 
         <button>
           <span>
             <FaMemory />
-            <span>Memórias</span>
+            <span>RAM</span>
           </span>
         </button>
 
@@ -59,28 +52,21 @@ const Sidebar = () => {
         <button>
           <span>
             <FaMicrochip />
-            <span>Processadores</span>
-          </span>
-        </button>
-
-        <button>
-          <span>
-            <FaMicrochip />
-            <span>Processadores</span>
+            <span>CPU</span>
           </span>
         </button>
 
         <button>
           <span>
             <MdDeveloperBoard />
-            <span>MotherBoard</span>
+            <span>MoBo</span>
           </span>
         </button>
 
         <button>
           <span>
             <FaMemory />
-            <span>Memórias</span>
+            <span>RAM</span>
           </span>
         </button>
 
