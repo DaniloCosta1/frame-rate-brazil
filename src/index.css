@@ -6,6 +6,7 @@
 .header{
   border: 1px solid black;
   padding: 10px;
+  width: 100%;
 
 
   display: flex;
@@ -45,4 +46,20 @@
   display: flex;
   flex-direction: column;
   gap: 20px;
+}
+
+
+.Main{
+  border: 1px solid green;
+  height: 600px;
+  width: 90%;
+
+  position: relative;
+  left: 100px;
+  bottom: 500px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
 }
