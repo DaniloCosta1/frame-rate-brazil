@@ -12,7 +12,7 @@ const Login = () => {
             className="w-full rounded-full border border-gray-500 px-4 py-2"
             name=""
             id=""
-            placeholder="Digite seu e-mail"
+            placeholder="Digite seu e-mail."
           />
           <input
             type="password"
